@@ -1,0 +1,43 @@
+{
+  "personal": {
+    "name": "Fabricio Lages",
+    "email": "fabriciolagess@webdojo.com",
+    "phone": "31989898989",
+    "consultancyType": "Individual",
+    "personType": "CPF",
+    "document": "53545807061",
+    "discoverChannels": [
+      "Instagram",
+      "LinkedIn",
+      "Udemy",
+      "YouTube",
+      "Indicação de Amigo"
+    ],
+    "file": "./cypress/fixtures/document.pdf",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "techs": [
+      "Cypress",
+      "Selenium",
+      "WebDriverIO",
+      "Robot Framework"
+    ],
+    "terms": true
+  },
+  "company": {
+    "name": "Fabricio Lages",
+    "email": "fabriciolagess@webdojo.com",
+    "phone": "31989898989",
+    "consultancyType": "In Company",
+    "personType": "CNPJ",
+    "document": "41130855000114",
+    "discoverChannels": [
+      "LinkedIn"
+    ],
+    "file": "./cypress/fixtures/document.pdf",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "techs": [
+      "Cypress"
+    ],
+    "terms": true
+  }
+}

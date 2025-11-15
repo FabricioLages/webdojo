@@ -5,5 +5,10 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
+    experimentalStudio:true,
+    video: true,    
+    baseUrl:'http://localhost:3000',
+    // viewportWidth:1440,
+    // viewportheight:900 
   },
 });
