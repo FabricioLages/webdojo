@@ -133,13 +133,3 @@ npx cypress run --spec cypress/e2e/login.cy.js --config viewportWidth=414,viewpo
 
 ---
 
-## 📄 Considerações Finais
-
-Este projeto foi estruturado para facilitar manutenção, expansão e organização dos testes automatizados da aplicação **Webdojo**.  
-Caso queira incluir:  
-- exemplos de código,  
-- fluxos de testes,  
-- badges de status,  
-- ou gerar esta documentação em PDF,  
-
-é só pedir!
